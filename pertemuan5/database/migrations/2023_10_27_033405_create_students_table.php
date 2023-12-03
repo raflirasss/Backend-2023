@@ -22,7 +22,7 @@ class CreateStudentsTable extends Migration
             $table->timestamps();
         });
     }
-
+g
     /**
      * Reverse the migrations.
      *
